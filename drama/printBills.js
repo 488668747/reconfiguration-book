@@ -1,6 +1,6 @@
 
 const invoice = {
-    
+
     "customer": "BigCo",
     "performances": [
         {
@@ -16,7 +16,7 @@ const invoice = {
             "audience": 40
         }
     ]
-    
+
 }
 
 const plays = {

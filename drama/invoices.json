@@ -1,5 +1,5 @@
 {
-    
+
     "customer": "BigCo",
     "performances": [
         {
@@ -15,5 +15,5 @@
             "audience": 40
         }
     ]
-    
+
 }
